@@ -55,8 +55,7 @@ const Bio = () => {
         <p>
           Yazar <strong>{author.name}</strong>  {author?.summary || null}
           {` `}
-      </p>
-      <p>
+   
           Twitterda takip et <a href={`https://twitter.com/${social?.twitter || ``}`}>
             
           </a>
