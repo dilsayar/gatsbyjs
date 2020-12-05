@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Dilsayar Test Projesi`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Hüseyin Demirtaş`,
+      summary: `Dil ve teknoloji`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Gatsby test etmek için bir site.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `kylemathews`,
