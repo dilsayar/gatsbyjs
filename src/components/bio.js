@@ -56,9 +56,7 @@ const Bio = () => {
           Yazar <strong>{author.name}</strong>  {author?.summary || null}
           {` `}
    
-          Twitterda takip et <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            
-          </a>
+      <a href={`https://twitter.com/${social?.twitter || ``}`}> Twitter</a>
         </p>
       )}
     </div>
@@ -66,3 +64,5 @@ const Bio = () => {
 }
 
 export default Bio
+
+
