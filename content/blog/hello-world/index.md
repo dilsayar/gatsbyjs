@@ -21,17 +21,13 @@ const author = "Hüseyin Demirtaş"
 
 ## Tablo Örneği
 
-| Number | Title                                    | Year |
+| Sayı | Ad                                    | Yıl |
 | :----- | :--------------------------------------- | ---: |
 | 1      | Hüseyin Demirtaş ile İngilizce | 2015 |
 | 2      | Hüseyin Demirtaş Akademi  | 2015 |
 
 ## Paragraf Örneği
     Paragraf metni buraya gelecek.
-
-This is a paragraph.
-
-    This is a paragraph.
 
 
 > Bir birim girintili alıntı
